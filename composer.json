@@ -1,0 +1,21 @@
+{
+    "name": "c4ys/yii2-wx-service-provider",
+    "description": "基于Yii2的微信服务商扩展",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ning",
+            "email": "15996204@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "c4ys\\yii2wxserviceprovider\\": ""
+        }
+    }
+}
